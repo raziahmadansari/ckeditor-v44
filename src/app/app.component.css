@@ -24,3 +24,13 @@
 	min-width: 795px;
 	max-width: 795px;
 }
+
+/* Restricted editor editing area height */
+.ck.ck-editor__main > .ck.ck-editor__editable_inline {
+  height: 250px;
+}
+
+.header {
+  width: fit-content;
+  margin-inline: auto;
+}
